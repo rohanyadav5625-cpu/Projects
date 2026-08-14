@@ -1,0 +1,1 @@
+#write a python to remove the first item from a specificed list.

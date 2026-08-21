@@ -9,5 +9,5 @@ def sum_thrice(x,y,z):
 #return the final sum 
    return sum 
 #call the "sum_thrice"function with the argument (1,2,3)and print the result 
-print (sum_thrice(1,2,3))  
+print(sum_thrice(1,2,3))  
 print(sum_thrice(3, 3,3))
